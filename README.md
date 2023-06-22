@@ -70,6 +70,7 @@ Para contribuir, você precisa adicionar as seguintes informações: data, nome 
 * 15: [RoadSec](https://www.roadsec.com.br/) - **São Paulo / SP**
 * 15: [Hashitalks Brasil](https://events.hashicorp.com/hashitalksbrasil) - ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 * 25 - 30: [Campus Party Brasil](https://brasil.campus-party.org/cpbr15/) - **São Paulo / SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
+* 22: [NodeBR Experience](https://guild.host/events/nodebr-experience-save-ahnbhi) - **São Caetano do Sul - São Paulo/ SP** ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 <!-- JULHO:END -->
 * 29 : [FrontIn Sampa + Code In The Dark](https://www.eventbrite.com.br/e/frontin-sampa-2023-code-in-the-dark-tickets-574922567877) - **São Paulo / SP** ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=darkblue)
 
